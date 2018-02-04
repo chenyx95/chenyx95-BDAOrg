@@ -8,5 +8,6 @@ Recently, an interesting website -- *NYC Open data* attracted my attention. This
 
 It would be really cool to produce a tool for optimizing daily commute in the city by analyzing this very large data set. The following image shows a small portion of the data:
 
-![glimpse](http://chenyx95-BDAOrg/glimpse.png)
+![glimpse](https://github.com/chenyx95/chenyx95-BDAOrg/blob/master/glimpse.png?raw=true)
+
 
